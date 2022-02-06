@@ -1,0 +1,41 @@
+body{
+
+    padding-top:100px;
+}
+
+#rodape{
+    height:50px;
+}
+
+.column {
+    max-width: 450px;
+}
+
+a{
+    cursor:pointer;
+}
+
+.center{
+    text-align:center;
+}
+
+.debugger p{
+    white-space: pre;
+}
+
+.flex{
+    display:flex;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.rem_maxwidth{
+    max-width: 100%;
+}
+
+.field [type=checkbox]{
+    vertical-align: baseline !important;
+    margin-right: 3px;
+}
