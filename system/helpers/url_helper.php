@@ -61,7 +61,7 @@ if ( ! function_exists('site_url'))
 	 * @param	string	$protocol
 	 * @return	string
 	 */
-	function site_url($uri = '', $protocol = NULL)
+	function site_url($uri = '', $protocol = NULL) //todo: Apagar agenda ao fazer login inicia
 	{
 		return get_instance()->config->site_url($uri, $protocol);
 	}

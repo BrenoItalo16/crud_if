@@ -1,9 +1,9 @@
 <?php
 
-class Usuario_model extends AbstractModel {
+class Agenda_model extends AbstractModel {
 
 	#nomes de tabelas e campos nao podem ter _ - ou letras maiusculas
-	public $table = "usuarios";
+	public $table = "agenda";
 	public $fields = ["nome","email","senha", "tipo", "area"=>"array", "foto", "nivel"=>"secure"];
 	public $searchFields = ["nome","email"];
 	public $tiposUsuarios = [1=>"Professor", 2=>"Técnico", 3=>"Bolsista"];
@@ -30,7 +30,7 @@ class Usuario_model extends AbstractModel {
 
 		#Caso alguem tente salvar como Admin, seta para a permissao padrao
 		if (($obj["nivel"] == "Admin" || $obj["nivel"] == "") && !Seguranca::temPermissao("Admin")){
-			$obj["nivel"] = 1;
+			$obj["nivel"] = 3;
 		}
 
 		

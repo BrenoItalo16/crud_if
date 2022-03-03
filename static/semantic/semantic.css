@@ -3950,7 +3950,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.teal.buttons .button,
 .ui.teal.button {
-  background-color: #ff4c1d;
+  background-color: #3172b2;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -3995,9 +3995,9 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.basic.teal.buttons .button,
 .ui.basic.teal.button {
-  -webkit-box-shadow: 0px 0px 0px 1px #ff4c1d inset !important;
-  box-shadow: 0px 0px 0px 1px #ff4c1d inset !important;
-  color: #ff4c1d !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #3172b2 inset !important;
+  box-shadow: 0px 0px 0px 1px #3172b2 inset !important;
+  color: #3172b2 !important;
 }
 
 .ui.basic.teal.buttons .button:hover,
@@ -7308,7 +7308,7 @@ a.ui.inverted.green.header:hover {
 /*--- Teal ---*/
 
 .ui.teal.header {
-  color: #ff4c1d !important;
+  color: #3172b2 !important;
 }
 
 a.ui.teal.header:hover {
@@ -7316,7 +7316,7 @@ a.ui.teal.header:hover {
 }
 
 .ui.teal.dividing.header {
-  border-bottom: 2px solid #ff4c1d;
+  border-bottom: 2px solid #3172b2;
 }
 
 /* Inverted */
@@ -7964,7 +7964,7 @@ i.inverted.circular.green.icon {
 /* Teal */
 
 i.teal.icon {
-  color: #ff4c1d !important;
+  color: #3172b2 !important;
 }
 
 i.inverted.teal.icon {
@@ -7973,7 +7973,7 @@ i.inverted.teal.icon {
 
 i.inverted.bordered.teal.icon,
 i.inverted.circular.teal.icon {
-  background-color: #ff4c1d !important;
+  background-color: #3172b2 !important;
   color: #FFFFFF !important;
 }
 
@@ -15480,8 +15480,8 @@ a.ui.basic.green.label:hover {
 
 .ui.teal.labels .label,
 .ui.teal.label {
-  background-color: #ff4c1d !important;
-  border-color: #ff4c1d !important;
+  background-color: #3172b2 !important;
+  border-color: #3172b2 !important;
   color: #FFFFFF !important;
 }
 
@@ -15511,8 +15511,8 @@ a.ui.teal.label:hover {
 
 .ui.basic.teal.label {
   background: none #FFFFFF !important;
-  color: #ff4c1d !important;
-  border-color: #ff4c1d !important;
+  color: #3172b2 !important;
+  border-color: #3172b2 !important;
 }
 
 .ui.basic.teal.labels a.label:hover,
@@ -19027,11 +19027,11 @@ ol.ui.horizontal.list li:before,
 /* Teal */
 
 .ui.teal.segment:not(.inverted) {
-  border-top: 2px solid #ff4c1d !important;
+  border-top: 2px solid #3172b2 !important;
 }
 
 .ui.inverted.teal.segment {
-  background-color: #ff4c1d !important;
+  background-color: #3172b2 !important;
   color: #FFFFFF !important;
 }
 
@@ -22888,7 +22888,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .teal.row,
 .ui.grid > .teal.column,
 .ui.grid > .row > .teal.column {
-  background-color: #ff4c1d !important;
+  background-color: #3172b2 !important;
   color: #FFFFFF;
 }
 
@@ -25097,8 +25097,8 @@ Floated Menu / Item
 
 .ui.menu .teal.active.item,
 .ui.teal.menu .active.item {
-  border-color: #ff4c1d !important;
-  color: #ff4c1d !important;
+  border-color: #3172b2 !important;
+  color: #3172b2 !important;
 }
 
 .ui.menu .blue.active.item,
@@ -25349,7 +25349,7 @@ Floated Menu / Item
 
 .ui.inverted.menu .teal.active.item,
 .ui.inverted.teal.menu {
-  background-color: #ff4c1d;
+  background-color: #3172b2;
 }
 
 .ui.inverted.teal.menu .item:before {
@@ -27250,11 +27250,11 @@ Floated Menu / Item
 /* Teal */
 
 .ui.teal.table {
-  border-top: 0.2em solid #ff4c1d;
+  border-top: 0.2em solid #3172b2;
 }
 
 .ui.inverted.teal.table {
-  background-color: #ff4c1d !important;
+  background-color: #3172b2 !important;
   color: #FFFFFF !important;
 }
 
@@ -28691,8 +28691,8 @@ a.ui.card:hover,
 .ui.teal.cards > .card,
 .ui.cards > .teal.card,
 .ui.teal.card {
-  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ff4c1d, 0px 1px 3px 0px #D4D4D5;
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ff4c1d, 0px 1px 3px 0px #D4D4D5;
+  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #3172b2, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #3172b2, 0px 1px 3px 0px #D4D4D5;
 }
 
 .ui.teal.cards > .card:hover,
@@ -30671,7 +30671,7 @@ a.ui.card:hover,
 .ui.teal.statistics .statistic > .value,
 .ui.statistics .teal.statistic > .value,
 .ui.teal.statistic > .value {
-  color: #ff4c1d;
+  color: #3172b2;
 }
 
 .ui.blue.statistics .statistic > .value,
@@ -36069,7 +36069,7 @@ a.ui.nag {
 /* Teal */
 
 .ui.teal.progress .bar {
-  background-color: #ff4c1d;
+  background-color: #3172b2;
 }
 
 .ui.teal.inverted.progress .bar {
